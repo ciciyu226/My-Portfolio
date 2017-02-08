@@ -1,6 +1,6 @@
 
 body {
-    font-family: cursive, sans-serif;
+    font-family: "Orbitron", cursive, sans-serif;
 
 }
 .row {
@@ -10,10 +10,9 @@ body {
 h1 {
 
     font-size: 52px;
-
 }
 
-h2 {
+h3 {
     margin: 0 auto;
 
 }
@@ -21,11 +20,11 @@ h2 {
 .header-text {
     text-align: right;
     color: #2d3c49;
-    /*width: 300px;*/
+    padding-top: 20px;/*width: 300px;*/
 }
 .header {
     border-bottom: 3px solid #7d97ad;
-    margin: 30px auto;
+    margin: 40px auto;
 }
 
 .featured {
