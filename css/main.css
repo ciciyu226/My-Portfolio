@@ -1,1 +1,39 @@
-fdasfda
+
+body {
+    font-family: cursive, sans-serif;
+
+}
+.row {
+
+}
+
+h1 {
+
+    font-size: 52px;
+
+}
+
+h2 {
+    margin: 0 auto;
+
+}
+
+.header-text {
+    text-align: right;
+    color: #2d3c49;
+    /*width: 300px;*/
+}
+.header {
+    border-bottom: 3px solid #7d97ad;
+    margin: 30px auto;
+}
+
+.featured {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: #7d97ad;
+}
+.col-md-4 {
+    text-align: center;
+    margin-bottom: 30px;
+}
